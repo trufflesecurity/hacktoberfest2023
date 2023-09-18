@@ -2,6 +2,11 @@
 ## We're Participating!
 Hello Open Source Enthusiasts! Truffle Security Co. is not just participating in Hacktoberfest 2023, we're upping the game with a Detector Competition!
 
+<p align="center">
+  <img alt="GoReleaser Logo" src="https://res.cloudinary.com/doqeieyc1/image/upload/v1695073802/TruffleHog_2_zxbt2b.png"  />
+</p>
+
+
 ## 🏆 Detector Competition 🏆
 What's In It for you? Not only do you get to improve an awesome Open Source project, but you also get a chance to win fabulous prizes!
 
