@@ -43,7 +43,6 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 - Any submissions received after Oct 31 will be ineligible for the Detector Competition.
 - New Detectors must be for valid credential providers. There is no benefit to the community for adding a Detector when the credential provider has no users. PRs that add invalid Detectors will be labled `invalid`.
 - Spam PRs will be marked with a `spam` label and closed. Contributors with 2+ spammy PRs are disqualified.
-- Contributors who attempt to duplicate other contributors PRs will be disqualified (aka, don't go hunting on GitHub for TruffleHog forks).
 - Each week we will be posting the scoreboard to the Hacktoberfest channel in the Secret Scanning Discord and on [this github issue](TODO)
 - Find a list of Active Detectors being worked on [this github issue](TODO)
 - This competition is _first come first serve_. If multiple PRs for the _same_ Detector or Detector fix are opened, only the first one opened will be awarded points if merged.
