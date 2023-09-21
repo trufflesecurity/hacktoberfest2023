@@ -48,9 +48,34 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 - This competition is _first come first serve_. If multiple PRs for the _same_ Detector or Detector fix are opened, only the first one opened will be awarded points if merged.
     - However, if we request changes in a PR and that PR is abandoned (aka, no activity within 3 days), then we will consider new contributions.
 - If you want your PRs to be excluded from the competition all you have to do is ensure that you don't apply the `Hacktoberfest-Detector-Competition-New/Fix` label.
-- To avoid folks cheesing the competition, we have a few criteria that must be met for a _new_ Detector to be considered:
-    - The detector provider must show up on a Google search.
-    - TODO
+- To avoid folks gaming the competition, we have a few criteria that must be met for a _new_ Detector to be considered. See the Detector Criteria section below.
+
+### Detector Criteria
+#### 1. Relevance:
+- *Category*: The Detector should fall under one of the recognized categories such as:
+  - Payment Processors (e.g., Stripe, PayPal, Square)
+  - DevOps Tools (e.g., Jenkins, CircleCI, Travis CI)
+  - Security Tooling (e.g., HashiCorp Vault, Fortify)
+  - Infrastructure Platforms (e.g., AWS, Azure, GCP)
+  - AI & Data Products (e.g., TensorFlow, Jupyter, AWS Sagemaker)
+  - Collaboration & Communication (e.g., Slack, Trello, Zoom)
+  - Databases (e.g, Supabase, MongoDB)
+  - CSM (e.g, HubSpot, Zendesk)
+- If a Detector doesn't fit into one of these categories but you believe it's crucial, provide a compelling case for its inclusion.
+
+#### 2. User Base & Popularity:
+- The credential provider the Detector is targeting should have a healthy and active user base.
+- Consider using metrics like:
+  - Monthly active users.
+  - GitHub stars (if it's an open-source tool).
+  - Presence in industry reports or articles.
+
+#### 3. Documentation & Justification:
+- The PR for the Detector should be accompanied by a well thought out PR description.
+- Provide supporting evidence for the validity of the Detector's regular expressions.
+- If possibile, cite official documentation or recognized community resources to justify the regex patterns used.
+
+---
 
 ## General Contributions
 We're also participating in the larget "Hacktoberfest" program sponsored by Digital Ocean. To maintain the integrity of TruffleHog, we're looking for meaningful contributions that align with the project's goals. Here are the types of contributions that are eligible:
