@@ -41,7 +41,7 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 - Start date for submissions: Sept 30.
 - End date for submissions: Oct 31.
 - Any submissions received after Oct 31 will be ineligible for the Detector Competition.
-- New Detectors must be for valid credential providers. There is no benefit to the community for adding a Detector when the credential provider has no users. PRs that add invalid Detectors will be labled `invalid`.
+- New Detectors must be for valid credential providers. There is no benefit to the community for adding a Detector when the credential provider has no users. PRs that add invalid Detectors will be labeled `invalid`.
 - Spam PRs will be marked with a `spam` label and closed. Contributors with 2+ spammy PRs are disqualified.
 - Each week we will be posting the scoreboard to the Hacktoberfest channel in the Secret Scanning Discord and on [this github issue](TODO)
 - Find a list of Active Detectors being worked on [this github issue](TODO)
@@ -54,7 +54,7 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 
 ## General Contributions
 We're also participating in the larget "Hacktoberfest" program sponsored by Digital Ocean. To maintain the integrity of TruffleHog, we're looking for meaningful contributions that align with the project's goals. Here are the types of contributions that are eligible:
-- Issues Labeled “Hacktoberfest”: We have a backlog of issues and some of them have been labeled “Hacktoberfest”.
+- Issues labeled “Hacktoberfest”: We have a backlog of issues and some of them have been labeled “Hacktoberfest”.
 - Expanding our Test Coverage: Add new tests or expand existing tests to increase our test coverage to make TruffleHog even more robust!
 
 
