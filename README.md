@@ -38,6 +38,8 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
     - However, if we request changes in a PR and that PR is abandoned (aka, no activity within 3 days), then we will consider new contributions.
 - If you want your PRs to be excluded from the competition all you have to do is ensure that you don't apply the `Hacktoberfest-Detector-Competition-New/Fix` label.
 - To avoid folks gaming the competition, we have a few criteria that must be met for a _new_ Detector to be considered. See the Detector Criteria section below.
+- The final tally will be determined once all competition PRs submitted before November 1 are either merged or closed.
+
 
 ### Detector Criteria
 
