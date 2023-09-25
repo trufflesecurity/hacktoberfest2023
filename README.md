@@ -20,22 +20,12 @@ There are two categories for the Detector Competiton: _adding new detectors_ (1 
 ### Broken Detectors (label: `Hacktoberfest-Detector-Competition-Fix` 2 points):
 Below are some examples of fixes that will be considered. Make sure to supply ample evidence of the fix in the PR description.
 - Correct the verification logic to accurately check detected secrets against the respective APIs.
-- Improve or correct the regular expressions used for secret detection.
-- Implement new or missing authentication methods for API verification.
+- Correct the regular expressions used for secret detection.
 
 
 ### New Detectors (label: `Hacktoberfest-Detector-Competition-New` 1 point):
 
 Submit a PR for a Detector you think would be valuable. Please follow the "Adding Detectors" contributing guidelines [here](https://github.com/trufflesecurity/trufflehog/blob/main/hack/docs/Adding_Detectors_external.md). In the new detector PR please provide documentation and supporting evidence for the validity of the detector's regular expressions.
-
-### Getting Started
-- Fork the TruffleHog Repository.
-- Pick an issue labeled Hacktoberfest or create one that you'd like to work on.
-- Commit and push your changes.
-- Create a Pull Request.
-- Sign the CLA.
-- Wait for a review.
-
 
 ### Competition Rules and Notes
 - Start date for submissions: Sept 30.
@@ -44,7 +34,6 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 - New Detectors must be for valid credential providers. There is no benefit to the community for adding a Detector when the credential provider has no users. PRs that add invalid Detectors will be labeled `invalid`.
 - Spam PRs will be marked with a `spam` label and closed. Contributors with 2+ spammy PRs are disqualified.
 - Each week we will be posting the scoreboard to the Hacktoberfest channel in the Secret Scanning Discord and on [this github issue](TODO)
-- Find a list of Active Detectors being worked on [this github issue](TODO)
 - This competition is _first come first serve_. If multiple PRs for the _same_ Detector or Detector fix are opened, only the first one opened will be awarded points if merged.
     - However, if we request changes in a PR and that PR is abandoned (aka, no activity within 3 days), then we will consider new contributions.
 - If you want your PRs to be excluded from the competition all you have to do is ensure that you don't apply the `Hacktoberfest-Detector-Competition-New/Fix` label.
@@ -71,9 +60,17 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
   - Presence in industry reports or articles.
 
 #### 3. Documentation & Justification:
-- The PR for the Detector should be accompanied by a well thought out PR description.
+- **Provide screenshots or log outputs of passing tests**. See the notes on testing [here](TODO)
 - Provide supporting evidence for the validity of the Detector's regular expressions.
 - If possibile, cite official documentation or recognized community resources to justify the regex patterns used.
+
+### Getting Started
+- Fork the TruffleHog Repository.
+- Pick an issue labeled Hacktoberfest or create one that you'd like to work on.
+- Commit and push your changes.
+- Create a Pull Request.
+- Sign the CLA.
+- Wait for a review.
 
 ---
 
@@ -82,16 +79,4 @@ We're also participating in the larget "Hacktoberfest" program sponsored by Digi
 - Issues labeled “Hacktoberfest”: We have a backlog of issues and some of them have been labeled “Hacktoberfest”.
 - Expanding our Test Coverage: Add new tests or expand existing tests to increase our test coverage to make TruffleHog even more robust!
 
-
-### TODO
-Pin issue that will do two things:
-1. Keep a tally of points
-2. Open/working on Detector types
-
-Examples of valid bug fixes
-
-Review the contributing document process
-
-
-Open PR template to use detectors5
 
