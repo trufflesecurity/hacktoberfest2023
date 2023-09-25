@@ -33,7 +33,7 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 - Any submissions received after Oct 31 will be ineligible for the Detector Competition.
 - New Detectors must be for valid credential providers. There is no benefit to the community for adding a Detector when the credential provider has no users. PRs that add invalid Detectors will be labeled `invalid`.
 - Spam PRs will be marked with a `spam` label and closed. Contributors with 2+ spammy PRs are disqualified.
-- Each week we will be posting the scoreboard to the Hacktoberfest channel in the Secret Scanning Discord and on [this github issue](TODO)
+- Each week we will be posting the scoreboard to [this github issue](TODO)
 - This competition is _first come first serve_. If multiple PRs for the _same_ Detector or Detector fix are opened, only the first one opened will be awarded points if merged.
     - However, if we request changes in a PR and that PR is abandoned (aka, no activity within 3 days), then we will consider new contributions.
 - If you want your PRs to be excluded from the competition all you have to do is ensure that you don't apply the `Hacktoberfest-Detector-Competition-New/Fix` label.
