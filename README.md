@@ -40,7 +40,15 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 - To avoid folks gaming the competition, we have a few criteria that must be met for a _new_ Detector to be considered. See the Detector Criteria section below.
 
 ### Detector Criteria
-#### 1. Relevance:
+
+#### 1. Documentation:
+- **Provide screenshots or log outputs of passing tests**. This includes a local test of the detector _actually_ recieving a 2xx (i.e, proving verification). See the notes on testing [here](TODO)
+- Provide steps on how to create an account and generate credential for the provider.
+- Provide supporting evidence for the validity of the Detector's regular expressions.
+- If possibile, cite official documentation or recognized community resources to justify the regex patterns used.
+- **Make sure to redact any sensitive information**!
+
+#### 2. Relevance:
 - *Category*: The Detector should fall under one of the recognized categories such as:
   - Payment Processors (e.g., Stripe, PayPal, Square)
   - DevOps Tools (e.g., Jenkins, CircleCI, Travis CI)
@@ -52,17 +60,12 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
   - CSM (e.g, HubSpot, Zendesk)
 - If a Detector doesn't fit into one of these categories but you believe it's crucial, provide a compelling case for its inclusion.
 
-#### 2. User Base & Popularity:
+#### 3. User Base & Popularity:
 - The credential provider the Detector is targeting should have a healthy and active user base.
 - Consider using metrics like:
   - Monthly active users.
   - GitHub stars (if it's an open-source tool).
   - Presence in industry reports or articles.
-
-#### 3. Documentation & Justification:
-- **Provide screenshots or log outputs of passing tests**. See the notes on testing [here](TODO)
-- Provide supporting evidence for the validity of the Detector's regular expressions.
-- If possibile, cite official documentation or recognized community resources to justify the regex patterns used.
 
 ### Getting Started
 - Fork the TruffleHog Repository.
