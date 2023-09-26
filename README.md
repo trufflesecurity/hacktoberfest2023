@@ -9,7 +9,7 @@ Hello Open Source Enthusiasts! Truffle Security Co. is not just participating in
 ## 🏆 Detector Competition 🏆
 What's In It for you? Not only do you get to improve an awesome Open Source project, but you also get a chance to win fabulous prizes!
 
-🥇 1st Prize: MacBook Air
+🥇 1st Prize: 13 inch MacBook Air (M2)
 
 🥈 2nd Prize: Backpack
 
@@ -44,7 +44,7 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 ### Detector Criteria
 
 #### 1. Documentation:
-- **Provide screenshots or log outputs of passing tests**. This includes a local test of the detector _actually_ recieving a 2xx (i.e, proving verification). See the notes on testing [here](TODO)
+- **Provide screenshots or log outputs of passing tests**. This includes a local test of the detector _actually_ recieving a 2xx (i.e, proving verification). See the notes on testing
 - Provide steps on how to create an account and generate credential for the provider.
 - Provide supporting evidence for the validity of the Detector's regular expressions.
 - If possibile, cite official documentation or recognized community resources to justify the regex patterns used.
