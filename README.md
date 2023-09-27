@@ -15,9 +15,9 @@ What's In It for you? Not only do you get to improve an awesome Open Source proj
 
 🥉 3rd Prize: Custom TruffleHog Swag
 
-There are two categories for the Detector Competiton: _adding new detectors_ (1 point) and _fixing broken detectors_ (2 points). Each _merged_ PR with a `Hacktoberfest-Detector-Competition-New` or `Hacktoberfest-Detector-Competition-Fix` will be awarded 1 or 2 points, respectively.
+There are two categories for the Detector Competiton: _adding new detectors_ (1 point) and _fixing detectors_ (2 points). Each _merged_ PR with a `Hacktoberfest-Detector-Competition-New` or `Hacktoberfest-Detector-Competition-Fix` will be awarded 1 or 2 points, respectively.
 
-### Broken Detectors (label: `Hacktoberfest-Detector-Competition-Fix` 2 points):
+### Fix Detectors (label: `Hacktoberfest-Detector-Competition-Fix` 2 points):
 Below are some examples of fixes that will be considered. Make sure to supply ample evidence of the fix in the PR description.
 - Correct the verification logic to accurately check detected secrets against the respective APIs.
 - Correct the regular expressions used for secret detection.
