@@ -9,11 +9,11 @@ Hello Open Source Enthusiasts! Truffle Security Co. is not just participating in
 ## 🏆 Detector Competition 🏆
 What's In It for you? Not only do you get to improve an awesome Open Source project, but you also get a chance to win fabulous prizes!
 
-🥇 1st Prize: 13 inch MacBook Air (M2)
+🥇 1st Prize: **13 inch MacBook Air (M2)**
 
-🥈 2nd Prize: Timbuk2 Backpack
+🥈 2nd Prize: **Timbuk2 Backpack**
 
-🥉 3rd Prize: Custom TruffleHog Swag
+🥉 3rd Prize: **Custom TruffleHog Swag**
 
 There are two categories for the Detector Competiton: _adding new detectors_ (1 point) and _fixing detectors_ (2 points). Each _merged_ PR with a `Hacktoberfest-Detector-Competition-New` or `Hacktoberfest-Detector-Competition-Fix` will be awarded 1 or 2 points, respectively.
 
@@ -31,6 +31,7 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 - Start date for submissions: Sept 30.
 - End date for submissions: Oct 31.
 - Any submissions received after Oct 31 will be ineligible for the Detector Competition.
+- Each PR should focus on _one_ new detector or _one_ fix for a detector. I.e, don't open a PR with _two_ new detectors.
 - New Detectors must be for valid credential providers. There is no benefit to the community for adding a Detector when the credential provider has no users. PRs that add invalid Detectors will be labeled `invalid`.
 - Spam PRs will be marked with a `spam` label and closed. Contributors with 2+ spammy PRs are disqualified.
 - Each week we will be posting the scoreboard to [this github issue](TODO)
@@ -84,5 +85,14 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 We're also participating in the larget "Hacktoberfest" program sponsored by Digital Ocean. To maintain the integrity of TruffleHog, we're looking for meaningful contributions that align with the project's goals. Here are the types of contributions that are eligible:
 - Issues labeled “Hacktoberfest”: We have a backlog of issues and some of them have been labeled “Hacktoberfest”.
 - Expanding our Test Coverage: Add new tests or expand existing tests to increase our test coverage to make TruffleHog even more robust!
+
+# :loudspeaker: Don't Forget to Join Our Community
+
+Have questions? Feedback? Jump in slack or discord and hang out with us
+
+Join our [Slack Community](https://join.slack.com/t/trufflehog-community/shared_invite/zt-pw2qbi43-Aa86hkiimstfdKH9UCpPzQ)
+
+Join the [Secret Scanning Discord](https://discord.gg/8Hzbrnkr7E)
+
 
 
