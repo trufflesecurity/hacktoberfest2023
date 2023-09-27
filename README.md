@@ -71,9 +71,10 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 
 ### Getting Started
 - Fork the TruffleHog Repository.
-- Pick an issue labeled Hacktoberfest or create one that you'd like to work on.
+- Fix or create a Detector.
 - Commit and push your changes.
 - Create a Pull Request.
+- Label the Pull Request with either `Hacktoberfest-Detector-Competition-Fix` or `Hacktoberfest-Detector-Competition-New`
 - Sign the CLA.
 - Wait for a review.
 
