@@ -17,13 +17,13 @@ What's In It for you? Not only do you get to improve an awesome Open Source proj
 
 There are two categories for the Detector Competiton: _adding new detectors_ (1 point) and _fixing detectors_ (2 points). Each _merged_ PR with a `Hacktoberfest-Detector-Competition-New` or `Hacktoberfest-Detector-Competition-Fix` will be awarded 1 or 2 points, respectively.
 
-### Fix Detectors (label: `Hacktoberfest-Detector-Competition-Fix` 2 points):
+### Fix Detectors (PR Title: `Detector-Competition-Fix` 2 points):
 Below are some examples of fixes that will be considered. Make sure to supply ample evidence of the fix in the PR description.
 - Correct the verification logic to accurately check detected secrets against the respective APIs.
 - Correct the regular expressions used for secret detection.
 
 
-### New Detectors (label: `Hacktoberfest-Detector-Competition-New` 1 point):
+### New Detectors (PR Title: `Detector-Competition-New` 1 point):
 
 Submit a PR for a Detector you think would be valuable. Please follow the "Adding Detectors" contributing guidelines [here](https://github.com/trufflesecurity/trufflehog/blob/main/hack/docs/Adding_Detectors_external.md). In the new detector PR please provide documentation and supporting evidence for the validity of the detector's regular expressions.
 
@@ -36,7 +36,6 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 - Spam PRs will be marked with a `spam` label and closed. Contributors with 2+ spammy PRs are disqualified.
 - This competition is _first come first serve_. If multiple PRs for the _same_ Detector or Detector fix are opened, only the first one opened will be awarded points if merged.
     - However, if we request changes in a PR and that PR is abandoned (aka, no activity within 3 days), then we will consider new contributions.
-- If you want your PRs to be excluded from the competition all you have to do is ensure that you don't apply the `Hacktoberfest-Detector-Competition-New/Fix` label.
 - To avoid folks gaming the competition, we have a few criteria that must be met for a _new_ Detector to be considered. See the Detector Criteria section below.
 - The final tally will be determined once all competition PRs submitted before November 1 are either merged or closed.
 
@@ -73,8 +72,7 @@ Submit a PR for a Detector you think would be valuable. Please follow the "Addin
 - Fork the TruffleHog Repository.
 - Fix or create a Detector.
 - Commit and push your changes.
-- Create a Pull Request.
-- Label the Pull Request with either `Hacktoberfest-Detector-Competition-Fix` or `Hacktoberfest-Detector-Competition-New`
+- Create a Pull Request with either `Detector-Competition-Fix` or `Detector-Competition-New` in the PR Title.
 - Sign the CLA.
 - Wait for a review.
 
